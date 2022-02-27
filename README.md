@@ -1,5 +1,5 @@
-# Sangwook Park 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsw0501&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-## ✋ Introduce
+# Sangwook Park [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsw0501&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋 Introduce
 세종대학교 3학년 전자정보통신공학 및 컴퓨터공학을 전공하고 있습니다. <br>
 백엔드 및 게임 개발에 관심이 있습니다.
 
