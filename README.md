@@ -20,7 +20,9 @@
   * C#, Window Form Programming, .net
 * [Barber Force Backend 개발][6] (21.09.16 ~ 21.10.20) 
   * JS, Node.js, Express, MongoDB
-
+* [SejongUniv Notify Reminder Discord Bot 개발][7] (22.08.20 ~ )
+  * JS, Node.js, Discord.js
+  
 [1]:https://github.com/2018-Interface-Programming-Exhibition/6team-Arduino_Game_Controller "Arduino Game Controller"
 
 [2]:https://github.com/sw0501/2019_Classical_Reading "고전독서 모의테스트"
@@ -32,6 +34,8 @@
 [5]:https://github.com/sw0501/NTP "NTP Time_Sync_Program"
 
 [6]:https://github.com/osamhack2021/WEB_BarberForce_Duty-Free "BarberForce"
+
+[7]:https://github.com/SejongUniv-Notice-Reminder-Discord-Bot/Notice-Reminder-Discord-Bot
 
 
 ## 🏆 Awards
