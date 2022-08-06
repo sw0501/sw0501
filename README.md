@@ -20,8 +20,20 @@
   * C#, Window Form Programming, .net
 * [Barber Force Backend 개발][6] (21.09.16 ~ 21.10.20) 
   * JS, Node.js, Express, MongoDB
-* [SejongUniv Notify Reminder Discord Bot 개발][7] (22.08.20 ~ )
+* [파일 정렬 최적화 프로그램 개발][7] (22.04.29 ~ 22.06.07)
+  * C#, WinForm
+* [화성시 장학관 카카오톡 챗봇 개발][8] (22.06.25 ~ )
+  * Python, Django
+* [SejongUniv Notify Reminder Discord Bot 개발][9] (22.07.20 ~ )
   * JS, Node.js, Discord.js
+* [Baekjoon Omakase Backend 개발][10] (22.07.22 ~ )
+  * JS, Node.js, Express
+* [Unity 2D 멀티게임 Stack-oversky Server 개발][11] (22.07.22 ~ )
+  * C#, Unity, PUN
+* [INTERFACE 카카오톡 챗봇 개발][12] (22.07.22 ~ )
+  * Python, Flask
+* [세종대학교 창의학기제 교통약자를 위한 길찾기 서비스 Backend 개발][13] (22.07.22 ~ )
+  * ???
   
 [1]:https://github.com/2018-Interface-Programming-Exhibition/6team-Arduino_Game_Controller "Arduino Game Controller"
 
@@ -35,7 +47,19 @@
 
 [6]:https://github.com/osamhack2021/WEB_BarberForce_Duty-Free "BarberForce"
 
-[7]:https://github.com/SejongUniv-Notice-Reminder-Discord-Bot/Notice-Reminder-Discord-Bot
+[7]:https://github.com/sw0501/File-Sorting-Optimization-Programming "파일 정렬 최적화 프로그램"
+
+[8]:https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae "화성시 장학관 카카오톡 챗봇"
+
+[9]:https://github.com/SejongUniv-Notice-Reminder-Discord-Bot/Notice-Reminder-Discord-Bot "세종대학교 공지 알리미 디코 봇"
+
+[10]:https://github.com/KyuTae98/Baekjoon_Omakase "백준 오마카세"
+
+[11]:https://github.com/stack-oversky "stack-oversky"
+
+[12]:https://github.com/Interface-ChatBot/Interface-ChatBot "인터페이스 카카오톡 챗봇"
+
+[13]:https://github.com/2022-Sejong-Creative-Semester/Traffic-Information-Service-for-the-Disabled "교통약자를 위한 길찾기 서비스"
 
 
 ## 🏆 Awards
@@ -48,6 +72,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 💯 PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkxkqkrtkddn)](https://solved.ac/dkxkqkrtddn)
