@@ -7,6 +7,12 @@
 * 2021 국방 공공데이터 활용 경진대회 (21.05.30 ~ 21.08.20)
 * 2021 군장병 공개SW 온라인 해커톤 (21.09.16 ~ 21.10.20)
 
+## :memo: License
+* DIAT 마스터
+* 사무자동화산업기사 취득일자: 20210820
+* 워드프로세서 1급
+ 
+
 ## :book: Project
 * [Arduino Game Controller 게임 개발][1] (18.07.12 ~ 18.12.04)
   * C#, Unity
@@ -33,7 +39,7 @@
 * [INTERFACE 카카오톡 챗봇 개발][12] (22.07.22 ~ )
   * Python, Flask
 * [세종대학교 창의학기제 교통약자를 위한 길찾기 서비스 Backend 개발][13] (22.07.22 ~ )
-  * ???
+  * Node.js, Express, MySQL
   
 [1]:https://github.com/2018-Interface-Programming-Exhibition/6team-Arduino_Game_Controller "Arduino Game Controller"
 
