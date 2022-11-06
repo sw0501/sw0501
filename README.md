@@ -66,7 +66,7 @@
 
 [10]:https://github.com/KyuTae98/Baekjoon_Omakase "백준 오마카세"
 
-[11]:https://github.com/stack-oversky "stack-oversky"
+[11]:https://github.com/stack-oversky/Stack-Oversky "stack-oversky"
 
 [12]:https://github.com/Interface-ChatBot/Interface-ChatBot "인터페이스 카카오톡 챗봇"
 
