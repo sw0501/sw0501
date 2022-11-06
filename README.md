@@ -28,7 +28,7 @@
   * C#, Unity, Photon
 * [INTERFACE 카카오톡 챗봇 개발][12] (22.07.22 ~ )
   * Python, Flask
-* [세종대학교 창의학기제 교통약자를 위한 길찾기 서비스 Backend 개발][13] (22.07.22 ~ )
+* [교통약자를 위한 편의설비 위치제공 및 저상버스 안내 웹/앱 서비스 Backend 개발][13] (22.07.22 ~ )
   * Node.js, Express, MySQL
 
 ## 🎮 C# Project
@@ -70,7 +70,7 @@
 
 [12]:https://github.com/Interface-ChatBot/Interface-ChatBot "인터페이스 카카오톡 챗봇"
 
-[13]:https://github.com/2022-Sejong-Creative-Semester/Traffic-Information-Service-for-the-Disabled "교통약자를 위한 길찾기 서비스"
+[13]:https://github.com/2022-Sejong-Creative-Semester/Traffic-Information-Service-for-the-Disabled "교통약자를 위한 편의설비 위치제공 및 저상버스 안내 웹/앱 서비스"
 
 
 ## 🏆 Awards
