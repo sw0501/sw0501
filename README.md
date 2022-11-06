@@ -1,47 +1,58 @@
 # Sangwook Park [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsw0501&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+안녕하세요 효율과 지식의 공유를 추구하는 개발자 박상욱입니다. <br>
+
 ## 👋 Introduce
-세종대학교 3학년 전자정보통신공학 및 컴퓨터공학을 전공하고 있습니다. <br>
-백엔드 및 게임 개발에 관심이 있으며 알고리즘 문제 풀이를 즐겨합니다. 
+* 비효율적인 작업을 어떻게하면 효율적으로 개선할 수 있을 지 고민합니다.
+* 제가 가진 지식을 다른 사람들과 공유하는 것을 지향합니다.
+* 개발의 즐거움을 늘 간직하고자 합니다.
 
 ## 🔭 Experience
 * 2021 국방 공공데이터 활용 경진대회 (21.05.30 ~ 21.08.20)
 * 2021 군장병 공개SW 온라인 해커톤 (21.09.16 ~ 21.10.20)
+* 2022-2 세종대학교 창의학기제 (22.09.01 ~ 22.12.21)
+* MSW 슈퍼 해커톤 (22.09.07 ~ 22.11.27)
 
-## :book: Project
-* [Arduino Game Controller 게임 개발][1] (18.07.12 ~ 18.12.04)
-  * C#, Unity
+## :book: Backend Project
 * [고전독서 모의테스트 앱 기획 및 DB 개발][2] (19.08.28 ~ 19.12.02)
   * JAVA, PHP, Android Studio, MySql
+* [군장병 이발예약 서비스 Barber Force Backend 개발][6] (21.09.16 ~ 21.10.20) 
+  * JS, Node.js, Express, MongoDB
+* [화성시 장학관 카카오톡 챗봇 개발][8] (22.06.25 ~ )
+  * Python, Flask
+* [SejongUniv Notify Reminder Discord Bot 개발][9] (22.07.20 ~ )
+  * JS, Node.js, Express, Discord.js
+* [Baekjoon Omakase Backend 개발][10] (22.07.22 ~ )
+  * JS, Node.js, Express
+* [Unity 2D 멀티게임 Stack-oversky Server 개발][11] (22.07.22 ~ )
+  * C#, Unity, Photon
+* [INTERFACE 카카오톡 챗봇 개발][12] (22.07.22 ~ )
+  * Python, Flask
+* [세종대학교 창의학기제 교통약자를 위한 길찾기 서비스 Backend 개발][13] (22.07.22 ~ )
+  * Node.js, Express, MySQL
+
+## 🎮 C# Project
+* [Arduino Game Controller 게임 개발][1] (18.07.12 ~ 18.12.04)
+  * C#, Unity
 * [Sejong Univ Online Tour 스토리 기획 및 Map 개발][3] (19.08.28 ~ 19.12.07)
   * C#, Unity, SketchUp
 * [Me(taverse) Me(morial) Map 개발][4] (21.05.30 ~ 21.08.20)
   * C#, Unity, QGIS, Blender
 * [NTP Time Sync Program 개발][5] (21.06.21 ~ 21.09.14) 
-  * C#, Window Form Programming, .net
-* [Barber Force Backend 개발][6] (21.09.16 ~ 21.10.20) 
-  * JS, Node.js, Express, MongoDB
+  * C#, Window Form Programming
 * [파일 정렬 최적화 프로그램 개발][7] (22.04.29 ~ 22.06.07)
   * C#, WinForm
-* [화성시 장학관 카카오톡 챗봇 개발][8] (22.06.25 ~ )
-  * Python, Django
-* [SejongUniv Notify Reminder Discord Bot 개발][9] (22.07.20 ~ )
-  * JS, Node.js, Discord.js
-* [Baekjoon Omakase Backend 개발][10] (22.07.22 ~ )
-  * JS, Node.js, Express
-* [Unity 2D 멀티게임 Stack-oversky Server 개발][11] (22.07.22 ~ )
-  * C#, Unity, PUN
-* [INTERFACE 카카오톡 챗봇 개발][12] (22.07.22 ~ )
-  * Python, Flask
-* [세종대학교 창의학기제 교통약자를 위한 길찾기 서비스 Backend 개발][13] (22.07.22 ~ )
-  * Node.js, Express, MySQL
-  
+
+## 📖 Other Project
+
+
 [1]:https://github.com/2018-Interface-Programming-Exhibition/6team-Arduino_Game_Controller "Arduino Game Controller"
 
 [2]:https://github.com/sw0501/2019_Classical_Reading "고전독서 모의테스트"
 
 [3]:https://github.com/sejong-interface/2019_SangWook_Loves_BBurgerKing "Sejong Univ Online Tour"
 
-[4]:https://github.com/sw0501 "만드는중"
+[4]:https://github.com/sw0501/2021-Defense-Public-Data-Competition "국방공공데이터 경진대회"
 
 [5]:https://github.com/sw0501/NTP "NTP Time_Sync_Program"
 
@@ -63,7 +74,7 @@
 
 
 ## 🏆 Awards
-+ 2021 국방 공공데이터 활용 경진대회 아이디어 기획 분야 장려상 수상 (21.05.30 ~ 21.08.20)
++ 2021 국방 공공데이터 활용 경진대회 아이디어 기획 분야 장려상 수상
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
