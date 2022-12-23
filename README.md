@@ -75,6 +75,7 @@
 
 ## 🏆 Awards
 + 2021 국방 공공데이터 활용 경진대회 아이디어 기획 분야 장려상 수상
++ 2022 세종대학교 소프트웨어융합대학 학술제 장려상 수상
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
