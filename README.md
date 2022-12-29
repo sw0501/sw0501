@@ -44,7 +44,7 @@
   * C#, WinForm
 
 ## 📖 Other Project
-
+* [MSW Super Hackathon 2022 (개발 + 기획 트랙팀) 탐정 페페 게임 개발][14] (22.09.07 ~ 22.11.27)
 
 [1]:https://github.com/2018-Interface-Programming-Exhibition/6team-Arduino_Game_Controller "Arduino Game Controller"
 
@@ -71,6 +71,8 @@
 [12]:https://github.com/Interface-ChatBot/Interface-ChatBot "인터페이스 카카오톡 챗봇"
 
 [13]:https://github.com/2022-Sejong-Creative-Semester/Traffic-Information-Service-for-the-Disabled "교통약자를 위한 편의설비 위치제공 및 저상버스 안내 웹/앱 서비스"
+
+[14]:https://github.com/sw0501/MSW_Super_Hackaton "MSW Super Hackaton 탐정 페페"
 
 
 ## 🏆 Awards
