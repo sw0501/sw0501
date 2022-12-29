@@ -45,6 +45,7 @@
 
 ## 📖 Other Project
 * [MSW Super Hackathon 2022 (개발 + 기획 트랙팀) 탐정 페페 게임 개발][14] (22.09.07 ~ 22.11.27)
+  * Lua, MSW
 
 [1]:https://github.com/2018-Interface-Programming-Exhibition/6team-Arduino_Game_Controller "Arduino Game Controller"
 
