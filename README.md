@@ -18,18 +18,20 @@
   * JAVA, PHP, Android Studio, MySql
 * [군장병 이발예약 서비스 Barber Force Backend 개발][6] (21.09.16 ~ 21.10.20) 
   * JS, Node.js, Express, MongoDB
-* [화성시 장학관 카카오톡 챗봇 개발][8] (22.06.25 ~ )
+* [화성시 장학관 카카오톡 챗봇 개발][8] (22.06.25 ~ 22.11.20)
   * Python, Flask
-* [SejongUniv Notify Reminder Discord Bot 개발][9] (22.07.20 ~ )
+* [SejongUniv Notify Reminder Discord Bot 개발][9] (22.07.20 ~ 22.07.21)
   * JS, Node.js, Express, Discord.js
-* [Baekjoon Omakase Backend 개발][10] (22.07.22 ~ )
+* [Baekjoon Omakase Backend 개발][10] (22.07.22 ~ 22.09.22)
   * JS, Node.js, Express
-* [Unity 2D 멀티게임 Stack-oversky Server 개발][11] (22.07.22 ~ )
+* [Unity 2D 멀티게임 Stack-oversky Server 개발][11] (22.07.22 ~ 22.12.02)
   * C#, Unity, Photon
-* [INTERFACE 카카오톡 챗봇 개발][12] (22.07.22 ~ )
+* [INTERFACE 카카오톡 챗봇 개발][12] (22.07.22 ~ 22.12.02)
   * Python, Flask
-* [교통약자를 위한 편의설비 위치제공 및 저상버스 안내 웹/앱 서비스 Backend 개발][13] (22.07.22 ~ )
-  * Node.js, Express, MySQL
+* [교통약자를 위한 편의설비 위치제공 및 저상버스 안내 웹/앱 서비스 Backend 개발][13] (22.07.22 ~ 22.12.15)
+  * Node.js, Express, MySQL, GCP
+* [무붕 웹 어플리케이션][16] (23.01.08 ~ )
+  * Node.js, Express, MySQL, GCP
 
 ## 🎮 C# Project
 * [Arduino Game Controller 게임 개발][1] (18.07.12 ~ 18.12.04)
@@ -46,7 +48,7 @@
 ## 📖 Other Project
 * [MSW Super Hackathon 2022 (개발 + 기획 트랙팀) 탐정 페페 게임 개발][14] (22.09.07 ~ 22.11.27)
   * Lua, MSW
-* [영화 예매 프로그램][15] ()
+* [영화 예매 프로그램][15] (22.05.10 ~ 22.06.19)
   * Java, Swing, MySQL
 
 
@@ -80,6 +82,7 @@
 
 [15]:https://google.com
 
+[16]:https://github.com/Mooboong/backend
 
 ## 🏆 Awards
 + 2021 국방 공공데이터 활용 경진대회 아이디어 기획 분야 장려상 수상
