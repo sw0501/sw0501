@@ -2,6 +2,8 @@
 
 안녕하세요 효율과 지식의 공유를 추구하는 개발자 박상욱입니다. <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw0501&show_icons=true&theme=dark)
+
 ## 👋 Introduce
 * 비효율적인 작업을 어떻게하면 효율적으로 개선할 수 있을 지 고민합니다.
 * 반복적인 작업을 자동화하는 일을 좋아합니다.
