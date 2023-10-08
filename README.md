@@ -32,7 +32,7 @@
   * Python, Flask
 * [교통약자를 위한 편의설비 위치제공 및 저상버스 안내 웹/앱 서비스 Backend 개발][13] (22.07.22 ~ 22.12.15)
   * Node.js, Express, MySQL, GCP
-* [무붕 웹 어플리케이션][16] (23.01.08 ~ )
+* [무붕 웹 어플리케이션][16] (22.12.23 ~ )
   * Node.js, Express, MySQL, GCP
 
 ## 🎮 C# Project
