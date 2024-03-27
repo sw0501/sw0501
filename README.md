@@ -1,15 +1,10 @@
-<center>
-
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sangwook's%20Github&fontSize=90&animation=fadeIn)
-
-</center>
-
-<center>
 
 ### 🛠 Tech Stack
 
 <!-- 언어 -->
-
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239218.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
@@ -29,20 +24,14 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</center>
-
-<center>
-
 ### 🎨 Contact
 
 <a href="mailto:dkxkqkrtkddn@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 <a href="mailto:dkxkqkrtkddn@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
-</center>
-
-<center>
-
-![Sangwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw0501&show_icons=true&theme=dark)
+### 💯 PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkxkqkrtkddn)](https://solved.ac/dkxkqkrtddn)
 
-</center>
+![Sangwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw0501&show_icons=true&theme=dark)
+
+</div>
